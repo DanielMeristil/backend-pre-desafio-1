@@ -1,0 +1,32 @@
+[ 
+  {
+    
+    "titulo": "television",
+    "nombre": "sony",
+    "descripcion": "television led 24 pulgadas",
+    "precio": 200,
+    "code" : "abc122",
+    "id" : 7,
+    "stock": 2
+  },
+  {
+    "computadoras" : "hp 2T 8RAM",
+    "titulo": "computadoras",
+    "nombre": "hp 2T 8RAM",
+    "descripcion": "la super maquina poderosa",
+    "precio": 500,
+    "code": "abc123",
+    "id": 9,
+    "stock" :5
+  },
+  {
+    "lavadora": "samsung",
+    "titulo": "lavadora",
+    "nombre": "samsung",
+    "descripcion": "una lavadora robotica",
+    "precio": 1000,
+    "code": "abc124",
+    "id":5,
+    "stock": 0
+  }
+]
